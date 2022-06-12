@@ -1,2 +1,2 @@
 # GAMES102-Assignment01
-GAMES102作业1，实现插值
+GAMES102作业1，通过插值、回归完成曲线拟合
