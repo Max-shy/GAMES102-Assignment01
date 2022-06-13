@@ -10,8 +10,8 @@ Assignment 01 required curve fitting to be completed by using 4 different method
 Interpolation fitting mainly realizes Lagrange polynomial interpolation and Gaussian basis function interpolation. Polynomial interpolation is accomplished with different basis functions.
 
 - **Lagrange polynomial interpolation**
-
-
+- 
+![image-20220612101310800](https://user-images.githubusercontent.com/68177870/173277956-fe2de206-9772-4547-a384-7623177f3d85.png)
 
   Complete the code according to the formula.
 
@@ -37,19 +37,19 @@ Interpolation fitting mainly realizes Lagrange polynomial interpolation and Gaus
   	return ans;
   }
   ```
+  
+  ![image-20220612101714760](https://user-images.githubusercontent.com/68177870/173277983-a2ada69d-b234-4b09-a855-2bf717dd45c2.png)
 
-
-![image-20220612101714760](E:\CG\Games\GAMES102\Study report\Week1\Study report for week 3.assets\image-20220612101714760.png)
 
 - **Gaussian basis function interpolation**
 
   Gaussian basis function:
 
-  <img src="E:\CG\Games\GAMES102\Study report\Week1\Study report for week 3.assets\image-20220612165405855.png" alt="image-20220612165405855" style="zoom:80%;" />
+![image-20220612165405855](https://user-images.githubusercontent.com/68177870/173278007-613c5748-f018-4443-83fb-3690403aebc5.png)
 
   Polynomial interpolation:
 
-  <img src="E:\CG\Games\GAMES102\Study report\Week1\Study report for week 3.assets\image-20220612102855479.png" alt="image-20220612102855479" style="zoom: 67%;" />
+![image-20220612102855479](https://user-images.githubusercontent.com/68177870/173278028-5a644608-c568-432b-a6b3-64fe69ef6d5b.png)
 
   Complete the code according to the formula.
 
@@ -85,19 +85,14 @@ Interpolation fitting mainly realizes Lagrange polynomial interpolation and Gaus
 
   theta = 10:
 
-  ![image-20220612103344263](E:\CG\Games\GAMES102\Study report\Week1\Study report for week 3.assets\image-20220612103344263.png)
-
+  ![image-20220612103344263](https://user-images.githubusercontent.com/68177870/173278043-c86aecca-d824-4507-a540-8e54328a1a28.png)
   
 
   theta = 50:
-
-  ![image-20220612103507448](E:\CG\Games\GAMES102\Study report\Week1\Study report for week 3.assets\image-20220612103507448.png)
+  
 
   theta = 100:
-
-  ![image-20220612103601391](E:\CG\Games\GAMES102\Study report\Week1\Study report for week 3.assets\image-20220612103601391.png)
-
-
+  
 
 ### Regression fitting
 
