@@ -194,21 +194,15 @@ m=4:
 
   m=4，lambda=0.001:
 
-  ![image-20220612111626596](E:\CG\Games\GAMES102\Study report\Week1\Study report for week 3.assets\image-20220612111626596.png)
 
-  
 
   m=3，lambda=0.001:
-
-  ![image-20220612111715606](E:\CG\Games\GAMES102\Study report\Week1\Study report for week 3.assets\image-20220612111715606.png)
 
 
 
 Now, compare the four different fitting results.
 
-![image-20220612112316714](E:\CG\Games\GAMES102\Study report\Week1\Study report for week 3.assets\image-20220612112316714.png)
 
-![image-20220612112553239](E:\CG\Games\GAMES102\Study report\Week1\Study report for week 3.assets\image-20220612112553239.png)
 
 code: [Max-shy/GAMES102-Assignment01](https://github.com/Max-shy/GAMES102-Assignment01)
 
